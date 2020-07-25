@@ -1,16 +1,28 @@
-### Hi there 👋
+Welcome :)
 
-<!--
-**SonYoungsung/SonYoungsung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Developer
+Based in Seoul, Korea
+---
 
-Here are some ideas to get you started:
+🖥️ [Client Side]
+- HTML5, CSS5, Java Sciprt(ES6)
+- React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💾 [Server side]
+- nodeJs
+- Express
+- Graphql
+- Prisma 
+
+🛎️ [Infra] 
+- Firebase
+
+📚 [Favorite Books]
+- CODE
+- The art of programming 
+- Hackers and Painters
+- Fatal Conceit
+
+🗺️ [Background]
+- Economics
+- Computer Science 
