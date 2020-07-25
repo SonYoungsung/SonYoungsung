@@ -1,5 +1,4 @@
 ### Web Developer
-Based in Seoul, Korea
 ---
 
 🖥️ [Client Side]
