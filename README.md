@@ -16,3 +16,5 @@
 🗺️ [Background]
 - Economics
 - Computer Science 
+
+[![Medium Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](http://medium.com/@sysgigigi)
